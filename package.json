@@ -20,6 +20,10 @@
   "homepage": "https://github.com/rvallely/firebase-net-ninja#readme",
   "devDependencies": {
     "webpack": "^5.69.1",
-    "webpack-cli": "^4.9.2"
+    "webpack-cli": "^4.9.2",
+    "source-map-loader": "^1.0.0"
+  },
+  "dependencies": {
+    "firebase": "^9.6.7"
   }
 }
